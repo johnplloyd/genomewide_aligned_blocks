@@ -3,3 +3,6 @@ This repository contains the Python scripts required to generate blocks of align
 
 The pipeline is explained on the Shiu Laboratory website:
 http://shiulab.plantbiology.msu.edu/index.php?title=SyntenicBlocks
+
+An internal wrapper that automates the chaining and netting of alignments is described here:
+http://shiulab.plantbiology.msu.edu/index.php?title=ChainingNettingWrapper
